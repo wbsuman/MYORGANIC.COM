@@ -1,0 +1,2 @@
+# MYORGANIC.COM
+&lt;section id="services">   &lt;h2>Our Services&lt;/h2>   &lt;ul>     &lt;li>Service 1&lt;/li>     &lt;li>Service 2&lt;/li>     &lt;li>Service 3&lt;/li>   &lt;/ul> &lt;/section>  &lt;section id="contact">   &lt;h2>Contact Us&lt;/h2>   &lt;p>Email: your@email.com&lt;/p>   &lt;p>Phone: +91-XXXXXXXXXX&lt;/p> &lt;/section>  &lt;footer>   &lt;p>© 2026 My Website | All Rights Reserved&lt;/p> &lt;/footer>  &lt;/body> &lt;/html>
